@@ -1,0 +1,39 @@
+
+
+html {
+	position: relative;
+	font-family: 'Underdog', cursive;
+	min-height: 850px;
+}
+
+
+
+header {
+	background-color: darkgreen;
+	height: 40px;
+	/*font-size: 1em;*/
+	margin-left: 0px;
+	margin-right: 0px;
+	color: white;
+}
+
+header h1 {
+	text-align: center;
+}
+
+
+
+
+body {
+	background-color: lightgreen;
+	/*background: url(../img/pic.jpg) center/cover no-repeat;*/
+}
+
+
+
+footer {
+	 position: absolute;
+	 height: 50px;
+	 bottom: 0;
+	 width: 100%;
+}
